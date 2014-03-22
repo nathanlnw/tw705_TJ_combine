@@ -56,7 +56,7 @@ void License_Type_Sel( u8 type1_2,u8 par,u8 invert_last)
 			}
 		if(type1_2==1)
 			{
-			if(par<=20)
+			if(par<20) 
 				{
 				lcd_bitmap(par*width_zf, 14, &BMP_select_License, LCD_MODE_SET);
 				lcd_text12(0,19,"0123456789ABCDEFGHIJ",20,LCD_MODE_SET);

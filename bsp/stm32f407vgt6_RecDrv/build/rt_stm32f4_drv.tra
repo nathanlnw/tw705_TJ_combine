@@ -170,7 +170,7 @@
 ### ADS-LD Output File: '.\build\rt_stm32f4_drv.axf'
 ### ADS-LD Command File: '.\build\rt_stm32f4_drv.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\build\rt_stm32f4_drv.lnp', Handle=0x00000334
+### Creating CmdFile '.\build\rt_stm32f4_drv.lnp', Handle=0x00000340
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\build\rt_stm32f4_drv.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
